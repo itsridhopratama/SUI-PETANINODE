@@ -7,3 +7,18 @@
 <p style="font-size:14px" align="center">
 <a href="https://linktr.ee/petaninode" target="_blank">Petani Node Web</a>
 </p>
+
+## Menginstall linux Depedensi
+```
+sudo apt-get update \
+&& sudo apt-get install -y --no-install-recommends \
+tzdata \
+ca-certificates \
+build-essential \
+libssl-dev \
+libclang-dev \
+pkg-config \
+openssl \
+protobuf-compiler \
+cmake
+```
