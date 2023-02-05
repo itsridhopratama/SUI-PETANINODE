@@ -121,7 +121,7 @@ cargo build  -p sui --release
 ```
 mv ~/sui/target/release/sui /usr/local/bin/
 ```
-##Buat Wallet
+## Buat Wallet
 1.
 ```
 sui client active-address
@@ -130,7 +130,7 @@ sui client active-address
 3. TEKAN ENTER
 4. KETIK NOMOR 0 LALU ENTER
 5. ⚠️SIMPAN INFORMASI YANG MUNCUL⚠️
-##Meminta Faucet
+## Meminta Faucet
 1.Pergi Ke Discord SUI pilih channel Testnet Faucet
 2.Ketikkan
 ```
@@ -143,6 +143,13 @@ Contoh:
 ```
 
 DONNEEE🙏
+## Check Node kalian jalan atau tidak
+Kunjungi Halaman
+```
+https://www.scale3labs.com/check/sui
+```
+Paste IP kalian lalu pilih Testnet lalu check
+
 
 
 
