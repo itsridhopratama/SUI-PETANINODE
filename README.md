@@ -106,7 +106,7 @@ DONEEEEEEE😁
 Mau membuat Address?Ikuti langkah di bawah.
 # Membuat address
 
-##Buat SUI Ulang Terlebih dahulu
+## Buat SUI Ulang Terlebih dahulu
 1.
 ```
 cd $HOME/sui
