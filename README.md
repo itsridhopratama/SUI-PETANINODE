@@ -22,3 +22,22 @@ openssl \
 protobuf-compiler \
 cmake
 ```
+## Install Rust
+```
+sudo curl https://sh.rustup.rs -sSf | sh -s -- -y
+source $HOME/.cargo/env
+rustc --version
+```
+## Clone SUI Repositori
+```
+cd $HOME
+git clone https://github.com/MystenLabs/sui.git
+cd sui
+git remote add upstream https://github.com/MystenLabs/sui
+git fetch upstream
+git checkout -B testnet --track upstream/testnet
+```
+## Membuat Direktori SUI db & Genesis
+```
+mkdir $HOME/.sui
+```
