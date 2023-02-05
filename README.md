@@ -1,9 +1,9 @@
 # Tutorial testnet SUI Petani Node
 
-<p style="font-size:14px" align="right">
-<a href="https://linktr.ee/petaninode" target="_blank">Petani Node Web<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-</p>
-
 <p align="center">
   <img height="75" width="75" src="https://d1fdloi71mui9q.cloudfront.net/fh2P8CPLQDSDUd0LS2E8_45Mg5E2qiHd8K7yN">
+</p>
+
+<p style="font-size:14px" align="center">
+<a href="https://linktr.ee/petaninode" target="_blank">Petani Node Web</a>
 </p>
