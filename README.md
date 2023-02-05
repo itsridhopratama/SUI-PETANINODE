@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img height="auto" width="auto" src="https://d1fdloi71mui9q.cloudfront.net/fh2P8CPLQDSDUd0LS2E8_45Mg5E2qiHd8K7yN" width="150">
+  <img height="auto" width="auto" src="https://d1fdloi71mui9q.cloudfront.net/fh2P8CPLQDSDUd0LS2E8_45Mg5E2qiHd8K7yN" width="75">
 </p>
