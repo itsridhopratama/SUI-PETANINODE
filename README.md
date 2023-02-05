@@ -121,6 +121,11 @@ cargo build  -p sui --release
 ```
 mv ~/sui/target/release/sui /usr/local/bin/
 ```
+4.
+```
+sudo systemctl restart suid
+journalctl -u suid -f
+```
 ## Buat Wallet
 1.
 ```
