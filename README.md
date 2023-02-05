@@ -103,4 +103,49 @@ sudo systemctl restart suid
 journalctl -u suid -f
 ```
 DONEEEEEEE😁
+Mau membuat Address?Ikuti langkah di bawah.
+# Membuat address
+
+##Buat SUI Ulang Terlebih dahulu
+1.
+```
+cd $HOME/sui
+```
+2.
+```
+git fetch upstream
+git checkout -B testnet --track upstream/testnet
+cargo build  -p sui --release
+```
+3.
+```
+mv ~/sui/target/release/sui /usr/local/bin/
+```
+##Buat Wallet
+1.
+```
+sui client active-address
+```
+2. KETIK Y LALU ENTER
+3. TEKAN ENTER
+4. KETIK NOMOR 0 LALU ENTER
+5. ⚠️SIMPAN INFORMASI YANG MUNCUL⚠️
+##Meminta Faucet
+1.Pergi Ke Discord SUI pilih channel Testnet Faucet
+2.Ketikkan
+```
+!faucet XXXXXXXXXXXXXXXXXXX
+```
+XXXXXX diganti dengan address kalian.
+Contoh:
+```
+!faucet 0x2c6f2bf2426192e698d4f7fd3e0863e84a16001d
+```
+
+DONNEEE🙏
+
+
+
+
+
 
